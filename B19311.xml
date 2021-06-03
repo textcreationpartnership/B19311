@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Kings most excellent Majestie, a proclamation. For as much as we have seriously weighed the present sad distractions that are, and have a long time been in our much enslaved and oppressed Kingdoms, ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19311</idno><idno type="EEBO-CITATION">99886194</idno>
+  <idno type="VID">186470</idno>
+  <idno type="EEBO-PROQUEST">2240888863</idno>
+  
+            <idno type="STC">Wing C3200</idno>
+            <idno type="STC">ESTC R225662</idno>
+            <idno type="PROQUEST">ocm99886194</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886194e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186470)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Kings most excellent Majestie, a proclamation. For as much as we have seriously weighed the present sad distractions that are, and have a long time been in our much enslaved and oppressed Kingdoms, ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed cum privilegio,</publisher>
+                  <pubPlace>Anwerpe [i.e. Antwerp] :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Brussels, the 25 day of January 1659.</note>
+                  <note>Steele notation: Roman letter. Arms 58 Our ment prospe-.</note>
+                  <note>Pardon to all proveded they join him within 21 days after 1 February in Cornwall, or the North of Scotland 10 days later. -- Steele.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate,1649-1669 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:186470:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the Kings most Excellent Maiesty, A PROCLAMATION.</head>
+            <p>FOR AS MUCH as We have seriously weighed the present said Distractions that are, and have a long time been in Our much enslaved and oppressed Kingdoms, occasioned by the divers Changes of an unlawful, usurped, and unsetled Govern<g ref="char:EOLhyphen"/>ment, to the preventing of the proceeding of Justice, and the execurion of the just Lawes, whereby Our Loving Subjects are robbed of the Peace due to them by Birth.</p>
+            <p>We do therefore Proclaim and Declare unto all Our good Subjects, That so far as God shall enable Us, we shall seek and en<g ref="char:EOLhyphen"/>deavour to Our utmost ability, (not looking so much upon Our own Interest as the settlement of Our Kingdoms in a happy &amp; lasting Peace) to advance the only means of their happiness; For which end and purpose We have provided a considerable Fotce, (not with an intent to adde to that late effusion of bloud, but) to the assistance of our good Subjects, to redeem them from their intollerable bondage, &amp; the renewing of Trade and Commerce amongst Our good Subjects whereby they may enjoy the Liber<g ref="char:EOLhyphen"/>ties and Freedom they were born to, and did enjoy many years before the cruel, bloody and unpresidented Martyrdom of Our Royal Father the KING,</p>
+            <p>We do hereby further Declare by this Our Proclamation, That we shall agree and stand to whatsoever was by Us expressed in Our former Propositions, and likewise will, and do grant Our free and general Pardon to all those who have been seduced to rise in Rebellion against Us, contrary to their duty and Allegiance, seeking to destroy Our Self and Our Posterity, and to change the true, Ancient, Protestant Religion, established by the Lawes of the Land, to suppress the Laws of Our Kingdom, the Liberty of the Subject, and to subject both to an unlimited Arbitrary Power: Provided they shall with in 21 daies after the first of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> next, being convinced in their Consciences of their horrid offence against God and Our Self, in assisting in the late Rebelli<g ref="char:EOLhyphen"/>on) return to their Allegiance, and repair to Our assistance at our Landing in <hi>Cornwal,</hi> or the North of <hi>Scotland</hi> within 10 days after the time before limitted; and shall in the mean time commit no Hostile acts against Us, or any of Our Loving Subjects within Our Dominions.</p>
+            <p>And We shall not only grant Our Free and General Pardon to such Person or persons, but so far employ them as their quali<g ref="char:EOLhyphen"/>ty and demeanour shall deserve (such persons only excepted as are mentioned in Our last Propositions</p>
+            <p>And for such Souldiers or Officers who shall adhere to Us in this Our just and lawful Right, We shall also provide such liberal Rewards, by Pensions or otherwise, as their several services in respect of the quality of the persons so acting shall deserve.</p>
+            <p>We do herby likewise require all Our good Subjects of what degree soever, upon their Allegiance to Our Self or Our Royal Father, as they tender the preservation of the true Protestant Religion (now in great danger of being rooted out by Anabaptists, Quakers, and Athests) Our Self and Posterity, and themselves, their Lawes and Liberties from an Arbitrary power of ambitious persons, to provide themselves of all things necessary to assist Us at Our landing.</p>
+            <p>And We do also Declare, That whereas We have been several times, almost ensnared by the fair pretences of some disloyal persons in our Dominions, (who have protested and promised to make Us a glorious KING) we shall not for the future put the lest confidence in them, whereby to ruinate Our Self and Posterity for ever; but cast Our Self wholly on Almighty God, and crave his assisting hand with our handful, to overcome the mighty Force of our enemies.</p>
+            <p>And We do professe in the presence of <hi>Almighty God,</hi> That We seek not revenge on any person or persons whatever further then by Law is due to the meanest of Our Subjects; But shall on Our part (according to the clear evidence of Our Conscience) leave no action unattempted, that may prevent the misery and confusion, which the ambition, fury and malice of Our enemies is like to bring on Our Self, and all Our good subjects if not timely composed; To effect which We shall freely hazard Our Self, and may by Gods blessing and your helping hands, both settle Our Self, and the Kingdom recover its former Peace and prospe<g ref="char:EOLhyphen"/>rity.</p>
+            <closer>
+               <dateline>Signed by Our Self at Our Pallace at <hi>Brussels,</hi>
+                  <date>the 25 day of <hi>January</hi> 1659.</date>
+               </dateline>
+               <lb/> God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>ANWERPE,</hi> Printed <hi>Cum Privilegio,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
